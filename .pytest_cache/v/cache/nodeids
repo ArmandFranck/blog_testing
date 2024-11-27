@@ -1,5 +1,6 @@
 [
   "tests/functional/test_about_view.py::test_about_view",
+  "tests/functional/test_commentaire.py::test_is_commentaire_view",
   "tests/functional/test_commentaire_submission.py::test_submit_commentaire",
   "tests/functional/test_contact.py::test_contact_page",
   "tests/functional/test_contact_view.py::test_contact_view",
